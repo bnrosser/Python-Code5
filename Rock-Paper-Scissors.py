@@ -1,7 +1,7 @@
 #
 # Brandi Rosser
 # May 20, 2023
-# Lab01P2
+# 
 # This program plays the classic Rock, Paper, Scissors game with the user.
 # The user makes a choice and then indicates the number of times the
 # computer should make a choice. The results of all games played are
