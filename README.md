@@ -1,4 +1,4 @@
-# Python-Code5
+Python-Code5
 Rock-Paper-Scissors Code
 
 This program plays the classic Rock, Paper, Scissors game with the user.
